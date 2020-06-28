@@ -1,42 +1,116 @@
 {
   "project_info": {
-    "project_number": "1073598855497",
-    "firebase_url": "https://myins-7aa34.firebaseio.com",
-    "project_id": "myins-7aa34",
-    "storage_bucket": "myins-7aa34.appspot.com"
+    "project_number": "803462477672",
+    "firebase_url": "https://instagram-d09a3.firebaseio.com",
+    "project_id": "instagram-d09a3",
+    "storage_bucket": "instagram-d09a3.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1073598855497:android:c27c2638dfb5e1d1e8c298",
+        "mobilesdk_app_id": "1:803462477672:android:9893ecfde108a1237cc8dd",
         "android_client_info": {
-          "package_name": "com.example.myins"
+          "package_name": "com.exammpple.instafresh"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1073598855497-4864ktqri6pv1fpnbkf4sdp5s8nbhnag.apps.googleusercontent.com",
+          "client_id": "803462477672-i7cbfm6b3b604mgtjbla5egj0nhgtvoh.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.myins",
-            "certificate_hash": "70f7d8bb91f2544f87e9b510e8684ee8fb9c6373"
+            "package_name": "com.exammpple.instafresh",
+            "certificate_hash": "d401373ffe499e8289507afee2ce33672d24b285"
           }
         },
         {
-          "client_id": "1073598855497-2qqlb09dga29iai1gudmgifmri9lcc18.apps.googleusercontent.com",
+          "client_id": "803462477672-e1vg7fqqgrbvuhgtq4u9jprgb6igu3cl.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAqujw1E_gtJoUdfAkXmv3IrFqS_s2soLA"
+          "current_key": "AIzaSyAP3AYhAf1Laxor182TMqlkEGWdEc1EFe8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1073598855497-2qqlb09dga29iai1gudmgifmri9lcc18.apps.googleusercontent.com",
+              "client_id": "803462477672-e1vg7fqqgrbvuhgtq4u9jprgb6igu3cl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803462477672:android:4a62e49d224304f47cc8dd",
+        "android_client_info": {
+          "package_name": "com.rohith.Instafire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803462477672-q8dimnd4g33h85c4v7v931rtjl0k5hd1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rohith.Instafire",
+            "certificate_hash": "d401373ffe499e8289507afee2ce33672d24b285"
+          }
+        },
+        {
+          "client_id": "803462477672-e1vg7fqqgrbvuhgtq4u9jprgb6igu3cl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP3AYhAf1Laxor182TMqlkEGWdEc1EFe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803462477672-e1vg7fqqgrbvuhgtq4u9jprgb6igu3cl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803462477672:android:598e1ad014f0eb9f7cc8dd",
+        "android_client_info": {
+          "package_name": "com.rohith.insta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803462477672-3dt8t6idh24k0j5pbgfadv4ii6slhqhd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rohith.insta",
+            "certificate_hash": "3e8082e695b26f3b5c40d12e682cbd203e420087"
+          }
+        },
+        {
+          "client_id": "803462477672-e1vg7fqqgrbvuhgtq4u9jprgb6igu3cl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP3AYhAf1Laxor182TMqlkEGWdEc1EFe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803462477672-e1vg7fqqgrbvuhgtq4u9jprgb6igu3cl.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
