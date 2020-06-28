@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:283512718486:android:5b5716e6bef1421c81eeb7",
         "android_client_info": {
-          "package_name": "com.rohith.instagram"
+          "package_name": "com.rohith.insta"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "283512718486-uckls2202puk182sr6t6otv81j1o6ddr.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.rohith.instagram",
+            "package_name": "com.rohith.insta",
             "certificate_hash": "3e8082e695b26f3b5c40d12e682cbd203e420087"
           }
         },
