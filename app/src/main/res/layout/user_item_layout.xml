@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    android:padding="3dp"
+    >
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true">
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/user_profile_image"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:src="@drawable/profile"
+        android:padding="5dp"
+        android:layout_marginTop="10dp"
+        android:layout_alignParentLeft="true">
+
+    </de.hdodenhof.circleimageview.CircleImageView>
+        <TextView
+            android:id="@+id/user_name_search"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="user name"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="22dp"
+            android:textSize="15dp"
+            android:textColor="@android:color/black"
+            android:layout_toRightOf="@id/user_profile_image">
+
+        </TextView>
+        <TextView
+            android:id="@+id/user_fullname_search"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="user full name"
+            android:layout_marginTop="2dp"
+            android:layout_marginLeft="5dp"
+            android:layout_toRightOf="@id/user_profile_image"
+            android:textStyle="bold"
+            android:textSize="16dp"
+            android:textColor="@android:color/secondary_text_light_nodisable"
+            android:layout_below="@id/user_name_search">
+
+        </TextView>
+        <Button
+            android:id="@+id/follow_btn_search"
+            android:layout_width="90dp"
+            android:layout_height="35dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:textAllCaps="false"
+            android:text="Follow"
+            android:background="@color/colorAccent"
+            android:layout_margin="10dp"
+            android:textStyle="bold"
+            android:textColor="@android:color/white"
+            />
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>
